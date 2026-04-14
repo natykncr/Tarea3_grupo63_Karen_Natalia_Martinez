@@ -1,9 +1,9 @@
 # Análisis de PIB
 
 ## Descripción General
-Para el desarrollo del análisis se utilizó un conjunto de datos del Banco Mundial correspondiente al Producto Interno Bruto (PIB) de los países a nivel global.  
-Este dataset fue obtenido de la página oficial del Banco Mundial, descargado desde la terminal y posteriormente cargado en el sistema distribuido HDFS para su procesamiento con Apache Spark.  
-Se realizó un proceso de limpieza y transformación de los datos, seleccionando 10 países y los últimos 10 años de la base como referencia para el análisis. Posteriormente, se realizó un análisis que permitió identificar los países con mayor y menor PIB durante el 2024.  
+Para el desarrollo del análisis se utilizó un conjunto de datos del Banco Mundial correspondiente al Producto Interno Bruto (PIB) de los países a nivel global. Este dataset fue obtenido mediante un enlace oficial en formato CSV, descargado desde la terminal y posteriormente cargado en el sistema distribuido HDFS para su procesamiento con Apache Spark.
+Se realizó un proceso de limpieza y transformación de los datos, seleccionando 10 países y los últimos 10 años de la base como referencia para el análisis. Posteriormente, se realizó un análisis permitiendo identificar los países con mayor y menor PIB durante el 2024.
+ 
 Fuente de datos:  
 https://data.worldbank.org/indicator/NY.GDP.MKTP.CD  
 

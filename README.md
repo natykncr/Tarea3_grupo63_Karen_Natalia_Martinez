@@ -1,4 +1,4 @@
-# Análisis de PIB con PySpark
+# Análisis de PIB
 
 ## Descripción General
 Para el desarrollo del análisis se utilizó un conjunto de datos del Banco Mundial correspondiente al Producto Interno Bruto (PIB) de los países a nivel global.  
